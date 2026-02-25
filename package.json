@@ -2,10 +2,13 @@
   "name": "portafolio-ingeniero-sistemas",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://pablonarvaez20152016.github.io/Portafolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint src --ext ts,tsx --max-warnings=0"
   },
   "dependencies": {
@@ -19,6 +22,7 @@
     "eslint": "^9.13.0",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.11",
+    "gh-pages": "^6.2.0",
     "typescript": "^5.6.3",
     "vite": "^6.0.0"
   }
