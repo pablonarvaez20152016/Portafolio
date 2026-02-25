@@ -318,7 +318,7 @@ const App: FC = () => {
       </main>
 
       <footer className="footer">
-        <span>© {new Date().getFullYear()} Tu Nombre</span>
+        <span>© {new Date().getFullYear()} Pablo Narvaez</span>
         <span>Node.js · Angular · React</span>
       </footer>
     </div>

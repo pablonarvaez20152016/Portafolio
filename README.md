@@ -7,6 +7,8 @@ Portafolio para demostrar habilidades como **Ingeniero de Sistemas** con foco en
 
 La aplicación actual es un **portafolio en React** que presenta tus skills y proyectos, con secciones dedicadas a Node.js, Angular y React.
 
+**Sitio desplegado:** [https://pablonarvaez20152016.github.io/Portafolio](https://pablonarvaez20152016.github.io/Portafolio)
+
 ### Scripts
 
 - **Instalar dependencias**:
