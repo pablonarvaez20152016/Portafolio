@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153b32">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Mi mapa · GranSan</title>
+</head>
+<body>
+  <header><div class="brand"><span class="brand-icon" aria-hidden="true">⌖</span><div><strong>Mi mapa · GranSan</strong><small>Encuentra tu local, a tu ritmo</small></div></div><span class="pill">Sin GPS</span></header>
+  <main>
+    <form id="search-form" role="search"><label for="query">Número de local o nombre de tienda</label><div class="search-row"><input id="query" type="search" placeholder="Ej. 1001 o Azierto" autocomplete="off" enterkeyhint="search" disabled><button id="search-button" class="primary" disabled>Ubicar</button></div></form>
+    <p id="status" role="status" aria-live="polite">Cargando los planos y locales…</p>
+    <section id="results" aria-label="Resultados de búsqueda" hidden></section>
+    <section class="map-card" aria-label="Plano del centro comercial">
+      <div class="map-top"><div class="floors" role="group" aria-label="Seleccionar piso"><button type="button" data-floor="1" aria-pressed="true">Piso 1</button><button type="button" data-floor="2" aria-pressed="false">Piso 2</button><button type="button" data-floor="3" aria-pressed="false">Piso 3</button></div><span id="floor-count"></span></div>
+      <p id="coverage" class="notice" hidden>Este piso solo tiene 13 puntos registrados. Hay más locales impresos en el plano.</p>
+      <div class="map-tools"><span>Desliza el plano para recorrerlo</span><div><button id="zoom-out" type="button" aria-label="Alejar mapa">−</button><button id="fit" type="button">Ajustar</button><button id="zoom-in" type="button" aria-label="Acercar mapa">+</button></div></div>
+      <div id="viewport" tabindex="0" aria-label="Mapa desplazable"><div id="canvas"><img id="map" alt="Plano del piso 1" draggable="false"><div id="marker" hidden><span id="marker-label"></span><i></i></div></div></div>
+      <div class="legend"><span class="green-dot"></span> Tu local seleccionado <span class="muted">· Posición publicada por el centro comercial</span></div>
+    </section>
+    <section id="detail" class="detail" hidden aria-label="Local seleccionado"></section>
+    <details class="contacts"><summary>Teléfonos de mi catálogo <span id="contact-count">0 locales</span></summary><p>Importa el archivo <strong>contactos.json</strong> obtenido con el prompt del catálogo. Se guarda en este navegador.</p><label class="file-button">Elegir archivo JSON<input id="contact-file" type="file" accept="application/json,.json"></label><p id="import-status" role="status"></p><div id="import-preview" hidden><p id="import-summary"></p><ul id="import-list"></ul><button id="confirm-import" type="button" class="primary">Guardar estos contactos</button><button id="cancel-import" type="button">Cancelar</button></div><button id="export-contacts" type="button">Exportar copia</button><button id="clear-contacts" type="button">Borrar teléfonos guardados</button></details>
+    <footer><p id="offline-status">Comprobando disponibilidad sin conexión…</p><button id="install" type="button" hidden>Instalar en mi celular</button><p>Mapa personal basado en los planos de El GranSan. Las numeraciones pueden contener diferencias; confirma el local en sitio.</p><a href="https://www.elgransan.com.co/mapa-del-gransan/" target="_blank" rel="noopener">Consultar fuente original ↗</a></footer>
+  </main>
+  <noscript>Activa JavaScript en tu navegador para buscar locales.</noscript>
+  <script type="module" src="app.mjs"></script>
+</body>
+</html>
