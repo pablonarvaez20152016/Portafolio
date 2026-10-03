@@ -1,0 +1,3318 @@
+{
+  "version": 1,
+  "contactos": [
+    {
+      "local_id": "ad93489ef7468dd1",
+      "piso": 2,
+      "numero": "2156",
+      "nombre": "Tejiestilo",
+      "telefonos": [
+        {
+          "numero": "+573202718610",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Tejiestilo (local 2156)"
+    },
+    {
+      "local_id": "73f68c5f1a878e18",
+      "piso": 2,
+      "numero": "2260",
+      "nombre": "Great Land",
+      "telefonos": [
+        {
+          "numero": "+573133530385",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Great Land (local 2260)"
+    },
+    {
+      "local_id": "1cc71d4cebcde089",
+      "piso": 2,
+      "numero": "2227",
+      "nombre": "Mmioo'S Denim",
+      "telefonos": [
+        {
+          "numero": "+573114879705",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Mioo's (local 2227)"
+    },
+    {
+      "local_id": "a20a38f2602a54b7",
+      "piso": 2,
+      "numero": "2228",
+      "nombre": "Joshi",
+      "telefonos": [
+        {
+          "numero": "+573134365349",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Joshi Jeans (local 2228)"
+    },
+    {
+      "local_id": "4aede6597ce9d604",
+      "piso": 2,
+      "numero": "2229",
+      "nombre": "Print Soul",
+      "telefonos": [
+        {
+          "numero": "+573001636131",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Print Soul (local 2229)"
+    },
+    {
+      "local_id": "33610a2578f06ee3",
+      "piso": 2,
+      "numero": "2230",
+      "nombre": "Saralu",
+      "telefonos": [
+        {
+          "numero": "+573144698478",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Saralu (local 2230)"
+    },
+    {
+      "local_id": "b91fc74cf15317a7",
+      "piso": 2,
+      "numero": "2242",
+      "nombre": "Exclusiva",
+      "telefonos": [
+        {
+          "numero": "+573203166617",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Stilo Boutique (local 2242)"
+    },
+    {
+      "local_id": "0b264cea8c0a977e",
+      "piso": 2,
+      "numero": "2243",
+      "nombre": "Seven7",
+      "telefonos": [
+        {
+          "numero": "+573002978791",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Seven7 Jeans (local 2243)"
+    },
+    {
+      "local_id": "7ba8c81107de0a4c",
+      "piso": 2,
+      "numero": "2247",
+      "nombre": "Doost",
+      "telefonos": [
+        {
+          "numero": "+573505456233",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Doost Jeans (local 2247)"
+    },
+    {
+      "local_id": "1c9bad27e79a8a48",
+      "piso": 2,
+      "numero": "2253",
+      "nombre": "Huba",
+      "telefonos": [
+        {
+          "numero": "+573116306705",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Huba Jeans (local 2253)"
+    },
+    {
+      "local_id": "8516ffe9e948edd6",
+      "piso": 2,
+      "numero": "2288",
+      "nombre": "Xlive",
+      "telefonos": [
+        {
+          "numero": "+573118327275",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Xlive (local 2288)"
+    },
+    {
+      "local_id": "0c2b4259f506587d",
+      "piso": 2,
+      "numero": "2357",
+      "nombre": "For Sky Jeans",
+      "telefonos": [
+        {
+          "numero": "+573007468671",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — For Sky Jeans (local 2357)"
+    },
+    {
+      "local_id": "363a75d9c1a8ef9f",
+      "piso": 2,
+      "numero": "2404",
+      "nombre": "Mistika",
+      "telefonos": [
+        {
+          "numero": "+573219149917",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104310.jpg — Mistika (local 2404)"
+    },
+    {
+      "local_id": "999d18edf6b25192",
+      "piso": 1,
+      "numero": "1209",
+      "nombre": "Hope Color",
+      "telefonos": [
+        {
+          "numero": "+573107646106",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Hope color (local 1209)"
+    },
+    {
+      "local_id": "41a6d1cab5218cd5",
+      "piso": 1,
+      "numero": "1256",
+      "nombre": "Creaciones Kristel",
+      "telefonos": [
+        {
+          "numero": "+573188808760",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Creaciones Kristel (local 1256)"
+    },
+    {
+      "local_id": "b0da2e8f8eb9ba21",
+      "piso": 2,
+      "numero": "2035",
+      "nombre": "United",
+      "telefonos": [
+        {
+          "numero": "+573504138358",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — United (local 2035)"
+    },
+    {
+      "local_id": "457666b4e5b0bafc",
+      "piso": 2,
+      "numero": "2045",
+      "nombre": "Creaciones Ofir",
+      "telefonos": [
+        {
+          "numero": "+573214574253",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Creaciones Ofir (local 2045)"
+    },
+    {
+      "local_id": "fd8c4d58a8bfe105",
+      "piso": 2,
+      "numero": "2062",
+      "nombre": "Survivor",
+      "telefonos": [
+        {
+          "numero": "+573043358289",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Wynwood (local 2062)"
+    },
+    {
+      "local_id": "3b72d23338469876",
+      "piso": 2,
+      "numero": "2080",
+      "nombre": "Jeff Sport",
+      "telefonos": [
+        {
+          "numero": "+573219645416",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Be Wise (local 2080)"
+    },
+    {
+      "local_id": "0428c49e16f90e4b",
+      "piso": 2,
+      "numero": "2087",
+      "nombre": "Galileo",
+      "telefonos": [
+        {
+          "numero": "+573225477039",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Galileo (local 2087)"
+    },
+    {
+      "local_id": "6bb6b601e1b1c4f5",
+      "piso": 2,
+      "numero": "2093",
+      "nombre": "Sara Store",
+      "telefonos": [
+        {
+          "numero": "+573123596818",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Sara Store (local 2093)"
+    },
+    {
+      "local_id": "89ba2a55fd89e14f",
+      "piso": 2,
+      "numero": "2104",
+      "nombre": "Philine Plays",
+      "telefonos": [
+        {
+          "numero": "+573122214221",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Philine Plays (local 2104)"
+    },
+    {
+      "local_id": "ff9e3a290e8dc3db",
+      "piso": 2,
+      "numero": "2129",
+      "nombre": "Stark",
+      "telefonos": [
+        {
+          "numero": "+573145443111",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Stark (local 2129)"
+    },
+    {
+      "local_id": "4a0dc2c6da05082e",
+      "piso": 2,
+      "numero": "2138",
+      "nombre": "Am Men",
+      "telefonos": [
+        {
+          "numero": "+573028065517",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — AM (local 2138)"
+    },
+    {
+      "local_id": "5d87b420d2fe2a7e",
+      "piso": 2,
+      "numero": "2154",
+      "nombre": "El Magico",
+      "telefonos": [
+        {
+          "numero": "+573112457265",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — El mágico (local 2154)"
+    },
+    {
+      "local_id": "16b3ac4a37cd4e02",
+      "piso": 2,
+      "numero": "2155",
+      "nombre": "Tejiestilo",
+      "telefonos": [
+        {
+          "numero": "+573202718610",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104305.jpg — Tejiestilo (local 2155)"
+    },
+    {
+      "local_id": "dacbcd7387dc56b3",
+      "piso": 1,
+      "numero": "1189",
+      "nombre": "Bialy",
+      "telefonos": [
+        {
+          "numero": "+573187444257",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Bialy (local 1189B)"
+    },
+    {
+      "local_id": "bcba1a76e99aa851",
+      "piso": 1,
+      "numero": "1265A",
+      "nombre": "Divas",
+      "telefonos": [
+        {
+          "numero": "+573123434745",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Xara Blusas (local 1265A)"
+    },
+    {
+      "local_id": "33e65e6878a8f1af",
+      "piso": 1,
+      "numero": "1266E-F",
+      "nombre": "Poligamia",
+      "telefonos": [
+        {
+          "numero": "+573102517003",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573132081257",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Poligamia (local 1266F); IMG_20261003_103631.jpg — Poligamia (local 1266E)"
+    },
+    {
+      "local_id": "dbca93ce7e1961d1",
+      "piso": 1,
+      "numero": "1267A-B-C",
+      "nombre": "Bless Me",
+      "telefonos": [
+        {
+          "numero": "+573205769687",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573142416814",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Bless me (local 1267B); IMG_20261003_104244.jpg — Bless me (local 1267C); IMG_20261003_103631.jpg — Bless Me (local 1267)"
+    },
+    {
+      "local_id": "00dd75f3b4f31844",
+      "piso": 1,
+      "numero": "1275A-B",
+      "nombre": "Mia Moda",
+      "telefonos": [
+        {
+          "numero": "+573204698431",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Mía Moda (local 1275A); IMG_20261003_103648.jpg — Mía Moda (local 1275A)"
+    },
+    {
+      "local_id": "487433b9d2b697d2",
+      "piso": 1,
+      "numero": "1275G-H",
+      "nombre": "Brainer Shop",
+      "telefonos": [
+        {
+          "numero": "+573103006686",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573103006696",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Brainer Shop (local 1275G); IMG_20261003_103648.jpg — Brainer Shop (local 1275G)"
+    },
+    {
+      "local_id": "f9e8164d8d59dee9",
+      "piso": 2,
+      "numero": "2224B",
+      "nombre": "Wanawa",
+      "telefonos": [
+        {
+          "numero": "+573026667067",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — Wanawaa (local 2224B)"
+    },
+    {
+      "local_id": "bb7b4ff5d68f8852",
+      "piso": 3,
+      "numero": "316",
+      "nombre": "Caos industry",
+      "telefonos": [
+        {
+          "numero": "+573105153488",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104244.jpg — CAOS Industry (local 316A)"
+    },
+    {
+      "local_id": "288bd338152d45a7",
+      "piso": 2,
+      "numero": "2297",
+      "nombre": "D'Nius By Zona Inn",
+      "telefonos": [
+        {
+          "numero": "+573134083072",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — D'nius Zona Inn (local 2297)"
+    },
+    {
+      "local_id": "332aea13b8bdb867",
+      "piso": 2,
+      "numero": "2299",
+      "nombre": "Santa Jeans",
+      "telefonos": [
+        {
+          "numero": "+573244140553",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Santa Jeans (local 2299)"
+    },
+    {
+      "local_id": "742fb39fe73a0058",
+      "piso": 2,
+      "numero": "2300",
+      "nombre": "Philine Plays",
+      "telefonos": [
+        {
+          "numero": "+573118238466",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Philine Plays (local 2300)"
+    },
+    {
+      "local_id": "5eb624138cd40c2e",
+      "piso": 2,
+      "numero": "2301",
+      "nombre": "Plur Store",
+      "telefonos": [
+        {
+          "numero": "+573124082158",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Plur (local 2301)"
+    },
+    {
+      "local_id": "7516e40aa1486046",
+      "piso": 2,
+      "numero": "2304",
+      "nombre": "Avenue",
+      "telefonos": [
+        {
+          "numero": "+573115145335",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Avenuve (local 2304)"
+    },
+    {
+      "local_id": "9e350b23443b7ed2",
+      "piso": 2,
+      "numero": "2307",
+      "nombre": "Play Girls",
+      "telefonos": [
+        {
+          "numero": "+573208558933",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Play Girls (local 2307)"
+    },
+    {
+      "local_id": "d0a77b05197e1509",
+      "piso": 2,
+      "numero": "2310",
+      "nombre": "Yoryi Jeans",
+      "telefonos": [
+        {
+          "numero": "+573166919431",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Yoryi Jeans (local 2310)"
+    },
+    {
+      "local_id": "e68fe153e256e873",
+      "piso": 2,
+      "numero": "2313",
+      "nombre": "Ulalaa",
+      "telefonos": [
+        {
+          "numero": "+573124304045",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Ulalaa (local 2313)"
+    },
+    {
+      "local_id": "cd569c8b564826cf",
+      "piso": 2,
+      "numero": "2315",
+      "nombre": "Be Strong",
+      "telefonos": [
+        {
+          "numero": "+573044305501",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Lefor (local 2315)"
+    },
+    {
+      "local_id": "4b3e65b92aa6b80a",
+      "piso": 2,
+      "numero": "2327",
+      "nombre": "Dasra",
+      "telefonos": [
+        {
+          "numero": "+573102817642",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — D'Sara Jeans (local 2327)"
+    },
+    {
+      "local_id": "cfc028cd9236893a",
+      "piso": 2,
+      "numero": "2328",
+      "nombre": "Dasra",
+      "telefonos": [
+        {
+          "numero": "+573102817642",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — D'Sara Jeans (local 2328)"
+    },
+    {
+      "local_id": "6f7a020bb03afae4",
+      "piso": 2,
+      "numero": "2352",
+      "nombre": "Cano Herrera Boutique",
+      "telefonos": [
+        {
+          "numero": "+573172909054",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104236.jpg — Paola Rojas Valoyes (local 2352)"
+    },
+    {
+      "local_id": "4f800dcbb8594ba8",
+      "piso": 2,
+      "numero": "2147",
+      "nombre": "Ka-Boom",
+      "telefonos": [
+        {
+          "numero": "+573227302282",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Jhoner Jeans (local 2147)"
+    },
+    {
+      "local_id": "fa0c8e646a92b3b4",
+      "piso": 2,
+      "numero": "2178",
+      "nombre": "Afroditas Store",
+      "telefonos": [
+        {
+          "numero": "+573016624203",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Afrodita's Store (local 2178)"
+    },
+    {
+      "local_id": "707438b6939cb1a7",
+      "piso": 2,
+      "numero": "2190",
+      "nombre": "Amor Amor - Ice Txe",
+      "telefonos": [
+        {
+          "numero": "+573108746991",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Ice txe (local 2190)"
+    },
+    {
+      "local_id": "8cf68aed6752bc51",
+      "piso": 2,
+      "numero": "2192",
+      "nombre": "Xs Moda Y Estilo",
+      "telefonos": [
+        {
+          "numero": "+573115482502",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Moda y Estilo (local 2192)"
+    },
+    {
+      "local_id": "581a7603a812b02b",
+      "piso": 2,
+      "numero": "2199",
+      "nombre": "Damar Moda Femenina",
+      "telefonos": [
+        {
+          "numero": "+573004430135",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Damar (local 2199)"
+    },
+    {
+      "local_id": "5d0d5943bccd0839",
+      "piso": 2,
+      "numero": "2203",
+      "nombre": "Luxxotica Plus",
+      "telefonos": [
+        {
+          "numero": "+573225671224",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Luxxoplus (local 2203)"
+    },
+    {
+      "local_id": "353c8d24d30a0e84",
+      "piso": 2,
+      "numero": "2205",
+      "nombre": "Tejidos Richard",
+      "telefonos": [
+        {
+          "numero": "+573016717309",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Tejidos Richard (local 2205)"
+    },
+    {
+      "local_id": "e6a71164d414d2cf",
+      "piso": 2,
+      "numero": "2216",
+      "nombre": "Eleven Planet",
+      "telefonos": [
+        {
+          "numero": "+573204452760",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Eleven Planet (local 2216)"
+    },
+    {
+      "local_id": "0d7a5e87303409fe",
+      "piso": 2,
+      "numero": "2218",
+      "nombre": "Isis Collection",
+      "telefonos": [
+        {
+          "numero": "+573185435493",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — MERAKI (local 2218)"
+    },
+    {
+      "local_id": "d038646b020a1465",
+      "piso": 2,
+      "numero": "2219",
+      "nombre": "Isis Collection",
+      "telefonos": [
+        {
+          "numero": "+573185435493",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — MERAKI (local 2219)"
+    },
+    {
+      "local_id": "71b0aa174e928104",
+      "piso": 2,
+      "numero": "2225",
+      "nombre": "Medellín De Moda",
+      "telefonos": [
+        {
+          "numero": "+573229422625",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Medelin Moda (local 2225)"
+    },
+    {
+      "local_id": "8b4898f00a9d954c",
+      "piso": 2,
+      "numero": "2252",
+      "nombre": "Creaciones Victoria",
+      "telefonos": [
+        {
+          "numero": "+573214929108",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104216.jpg — Creaciones Victoria (local 2252)"
+    },
+    {
+      "local_id": "215738278e6d6276",
+      "piso": 2,
+      "numero": "2006",
+      "nombre": "Sharis",
+      "telefonos": [
+        {
+          "numero": "+573154336365",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Sharis (local 2006)"
+    },
+    {
+      "local_id": "3f86c6303003b9b3",
+      "piso": 2,
+      "numero": "2007",
+      "nombre": "Aya Collection",
+      "telefonos": [
+        {
+          "numero": "+573125116966",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Maranatha (local 2007)"
+    },
+    {
+      "local_id": "352dc79a5b5d6222",
+      "piso": 2,
+      "numero": "2009",
+      "nombre": "Sephia Design",
+      "telefonos": [
+        {
+          "numero": "+573143591397",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Sephia Design (local 2009)"
+    },
+    {
+      "local_id": "29877adb545617e4",
+      "piso": 2,
+      "numero": "2015",
+      "nombre": "Sv Sandra Villalobos",
+      "telefonos": [
+        {
+          "numero": "+573046193312",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Sandra Villalobos (local 2015)"
+    },
+    {
+      "local_id": "fb3e230d79f5e14b",
+      "piso": 2,
+      "numero": "2016",
+      "nombre": "Zoult",
+      "telefonos": [
+        {
+          "numero": "+573224505258",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Zoult (local 2016)"
+    },
+    {
+      "local_id": "148d486c4f125d0e",
+      "piso": 2,
+      "numero": "2017",
+      "nombre": "Click Five",
+      "telefonos": [
+        {
+          "numero": "+573143730478",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Click five (local 2017)"
+    },
+    {
+      "local_id": "707e28e67f47c954",
+      "piso": 2,
+      "numero": "2019",
+      "nombre": "Moda Puntual Skitty Love",
+      "telefonos": [
+        {
+          "numero": "+573016164610",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Skitty Love (local 2019)"
+    },
+    {
+      "local_id": "4eecb759e606dc94",
+      "piso": 2,
+      "numero": "2022",
+      "nombre": "Ezé",
+      "telefonos": [
+        {
+          "numero": "+573123437765",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Sheva (local 2022)"
+    },
+    {
+      "local_id": "fc7b26d4017465c5",
+      "piso": 2,
+      "numero": "2023",
+      "nombre": "Classic Fem - The Fashion Unirverse",
+      "telefonos": [
+        {
+          "numero": "+573133465793",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Medusa (local 2023)"
+    },
+    {
+      "local_id": "7be0a5a0d0919d64",
+      "piso": 2,
+      "numero": "2026",
+      "nombre": "Gerizim Cristo Store",
+      "telefonos": [
+        {
+          "numero": "+573123434282",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Gerizin Cristo Store (local 2026)"
+    },
+    {
+      "local_id": "c087b16e0ccc1d22",
+      "piso": 2,
+      "numero": "2027",
+      "nombre": "Survivor",
+      "telefonos": [
+        {
+          "numero": "+573043358289",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Survivol (local 2027)"
+    },
+    {
+      "local_id": "2c1de9f8767b1217",
+      "piso": 2,
+      "numero": "2037",
+      "nombre": "Fetiche Jeans",
+      "telefonos": [
+        {
+          "numero": "+573153710928",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Fetiche (local 2037)"
+    },
+    {
+      "local_id": "8bf7a4f82d8a1867",
+      "piso": 2,
+      "numero": "2038",
+      "nombre": "Luz De Angel",
+      "telefonos": [
+        {
+          "numero": "+573015042959",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104212.jpg — Luz de Angel (local 2038)"
+    },
+    {
+      "local_id": "62c4ce29ee685200",
+      "piso": 1,
+      "numero": "1179",
+      "nombre": "Agua y Rosa",
+      "telefonos": [
+        {
+          "numero": "+573226102583",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Agua y rosa (local 1179)"
+    },
+    {
+      "local_id": "6d2655a8ece4c475",
+      "piso": 1,
+      "numero": "1180",
+      "nombre": "Agua y Rosa",
+      "telefonos": [
+        {
+          "numero": "+573226102583",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Agua y rosa (local 1180)"
+    },
+    {
+      "local_id": "54f081063543846f",
+      "piso": 1,
+      "numero": "1185",
+      "nombre": "Dulce maria",
+      "telefonos": [
+        {
+          "numero": "+573118382941",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Dulce Maria (local 1185)"
+    },
+    {
+      "local_id": "d67ed95a844b6258",
+      "piso": 1,
+      "numero": "1187",
+      "nombre": "Alukard Store",
+      "telefonos": [
+        {
+          "numero": "+573134079899",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Alukard Store (local 1187)"
+    },
+    {
+      "local_id": "b2fdf2d78b99ea67",
+      "piso": 1,
+      "numero": "1197",
+      "nombre": "Bekka",
+      "telefonos": [
+        {
+          "numero": "+573506033111",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Bali.gn (local 1197)"
+    },
+    {
+      "local_id": "f6b0ba37191ffe25",
+      "piso": 1,
+      "numero": "1200",
+      "nombre": "Cotton & Co",
+      "telefonos": [
+        {
+          "numero": "+573238002622",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Cotton & co (local 1200)"
+    },
+    {
+      "local_id": "f7ae99018bdbf98b",
+      "piso": 1,
+      "numero": "1212",
+      "nombre": "",
+      "telefonos": [
+        {
+          "numero": "+573102706624",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Vilkoketa (local 1212)"
+    },
+    {
+      "local_id": "e063f11d6c4746fd",
+      "piso": 1,
+      "numero": "1238",
+      "nombre": "Green Love Colombia",
+      "telefonos": [
+        {
+          "numero": "+573124506192",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Green Love (local 1238)"
+    },
+    {
+      "local_id": "c91200a1d641769e",
+      "piso": 1,
+      "numero": "1239",
+      "nombre": "Azierto - Luxxotica",
+      "telefonos": [
+        {
+          "numero": "+573133966098",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Azierto (local 1239)"
+    },
+    {
+      "local_id": "ea8666d9110bd1db",
+      "piso": 2,
+      "numero": "2002",
+      "nombre": "Solo Tu",
+      "telefonos": [
+        {
+          "numero": "+573142604126",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Solo Tú Jeans (local 2002)"
+    },
+    {
+      "local_id": "b891a5313fb7de90",
+      "piso": 2,
+      "numero": "2003",
+      "nombre": "Dvio Jeans",
+      "telefonos": [
+        {
+          "numero": "+573052433132",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Dvio Jeans (local 2003)"
+    },
+    {
+      "local_id": "0e809126a66097e6",
+      "piso": 2,
+      "numero": "2005",
+      "nombre": "Mostazza",
+      "telefonos": [
+        {
+          "numero": "+573133067430",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104049.jpg — Leandru's (local 2005)"
+    },
+    {
+      "local_id": "dc7e6634bc305261",
+      "piso": 1,
+      "numero": "1107",
+      "nombre": "Tejidos Shemir",
+      "telefonos": [
+        {
+          "numero": "+573132826904",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Tejidos Shemir (local 1107)"
+    },
+    {
+      "local_id": "72ab0a9323faebbf",
+      "piso": 1,
+      "numero": "1111",
+      "nombre": "Anys Moda",
+      "telefonos": [
+        {
+          "numero": "+573162391348",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Anys (local 1111)"
+    },
+    {
+      "local_id": "dbd8ef9cbc94e892",
+      "piso": 1,
+      "numero": "1112",
+      "nombre": "Azierto",
+      "telefonos": [
+        {
+          "numero": "+573175060158",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Azierto (local 1112)"
+    },
+    {
+      "local_id": "6a50b8408647756a",
+      "piso": 1,
+      "numero": "1117",
+      "nombre": "Agua y Rosa Men",
+      "telefonos": [
+        {
+          "numero": "+573226102583",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Agua y rosa (local 1117)"
+    },
+    {
+      "local_id": "b89da60d1bc03977",
+      "piso": 1,
+      "numero": "1124",
+      "nombre": "Tejidos Samalu",
+      "telefonos": [
+        {
+          "numero": "+573123936150",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Tejidos Samalú (local 1124)"
+    },
+    {
+      "local_id": "2b6ce59a16f4bc9d",
+      "piso": 1,
+      "numero": "1143",
+      "nombre": "Arcy Modas",
+      "telefonos": [
+        {
+          "numero": "+573022677352",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Arcy modas (local 1143)"
+    },
+    {
+      "local_id": "345a47cfc39cb430",
+      "piso": 1,
+      "numero": "1159",
+      "nombre": "San Alejo",
+      "telefonos": [
+        {
+          "numero": "+573193963792",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573116383084",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — San Alejo (local 1159); IMG_20261003_103453.jpg — San alejo (local 1159)"
+    },
+    {
+      "local_id": "867982c5c24c9010",
+      "piso": 1,
+      "numero": "1160",
+      "nombre": "Touch Me Blouses",
+      "telefonos": [
+        {
+          "numero": "+573132257977",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Touch Me Blouses (local 1160)"
+    },
+    {
+      "local_id": "c5583da4a513baa4",
+      "piso": 1,
+      "numero": "1162",
+      "nombre": "Gestacion",
+      "telefonos": [
+        {
+          "numero": "+573103473984",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Gestación (local 1162)"
+    },
+    {
+      "local_id": "9906d074cf72cb44",
+      "piso": 1,
+      "numero": "1163",
+      "nombre": "Vilkoketa",
+      "telefonos": [
+        {
+          "numero": "+573102706624",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573204867275",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Vilkoketa (local 1163); IMG_20261003_103453.jpg — Vilkoketa (local 1163)"
+    },
+    {
+      "local_id": "2bf267f2f1b3af1c",
+      "piso": 1,
+      "numero": "1167",
+      "nombre": "Agua y Rosa",
+      "telefonos": [
+        {
+          "numero": "+573226102583",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_104043.jpg — Agua y rosa (local 1167)"
+    },
+    {
+      "local_id": "e154c98ec19c782b",
+      "piso": 2,
+      "numero": "2059",
+      "nombre": "Hollsting",
+      "telefonos": [
+        {
+          "numero": "+573102368049",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Hollisting (local 2059)"
+    },
+    {
+      "local_id": "5e434cea0cc2b06a",
+      "piso": 2,
+      "numero": "2064",
+      "nombre": "Zay",
+      "telefonos": [
+        {
+          "numero": "+573107800119",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Zay S.A.S (local 2064)"
+    },
+    {
+      "local_id": "e7a6631c85c65508",
+      "piso": 2,
+      "numero": "2073",
+      "nombre": "Wonder Shop",
+      "telefonos": [
+        {
+          "numero": "+573227704653",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Wonder Shop (local 2073)"
+    },
+    {
+      "local_id": "ee9c8e83d742b574",
+      "piso": 2,
+      "numero": "2074",
+      "nombre": "Baruch Shop",
+      "telefonos": [
+        {
+          "numero": "+573214812744",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Creaciones Vanessa Martinez (local 2074)"
+    },
+    {
+      "local_id": "0bb14f33b192e92b",
+      "piso": 2,
+      "numero": "2077",
+      "nombre": "Desocupado",
+      "telefonos": [
+        {
+          "numero": "+573214382214",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Michelle's Fashion (local 2077)"
+    },
+    {
+      "local_id": "7d6ac25b68d7057e",
+      "piso": 2,
+      "numero": "2078",
+      "nombre": "Inboga",
+      "telefonos": [
+        {
+          "numero": "+573202208301",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — In Boga (local 2078)"
+    },
+    {
+      "local_id": "2d6df259bdd31a01",
+      "piso": 2,
+      "numero": "2079",
+      "nombre": "Colibri",
+      "telefonos": [
+        {
+          "numero": "+573194349434",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — SIMBA CLOTHES (local 2079)"
+    },
+    {
+      "local_id": "056a89e9dbe9b31b",
+      "piso": 2,
+      "numero": "2085",
+      "nombre": "Samvelt",
+      "telefonos": [
+        {
+          "numero": "+573154811220",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — SAMVELT (local 2085)"
+    },
+    {
+      "local_id": "ac824e3a889cf1d1",
+      "piso": 2,
+      "numero": "2094",
+      "nombre": "Tefrol kids",
+      "telefonos": [
+        {
+          "numero": "+573242213590",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Tréfol (local 2094)"
+    },
+    {
+      "local_id": "69ddb33df40f39d9",
+      "piso": 2,
+      "numero": "2097",
+      "nombre": "De Moda DM",
+      "telefonos": [
+        {
+          "numero": "+573053281030",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — De Moda (local 2097)"
+    },
+    {
+      "local_id": "96903daf5db588f1",
+      "piso": 2,
+      "numero": "2100",
+      "nombre": "All People Moda",
+      "telefonos": [
+        {
+          "numero": "+573105087800",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — All People (local 2100)"
+    },
+    {
+      "local_id": "2fecc97c539fa650",
+      "piso": 2,
+      "numero": "2101",
+      "nombre": "San Alejo",
+      "telefonos": [
+        {
+          "numero": "+573143850611",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — San Alejo Moda (local 2101)"
+    },
+    {
+      "local_id": "87fa7ed8457d84c3",
+      "piso": 2,
+      "numero": "2103",
+      "nombre": "Kaiross",
+      "telefonos": [
+        {
+          "numero": "+573044873554",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103656.jpg — Kaiross (local 2103)"
+    },
+    {
+      "local_id": "244f250dd3e0b97e",
+      "piso": 1,
+      "numero": "1267D",
+      "nombre": "Gamaliel",
+      "telefonos": [
+        {
+          "numero": "+573205769687",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Gamaliel (local 1267D)"
+    },
+    {
+      "local_id": "97242db99cd34ae7",
+      "piso": 1,
+      "numero": "1268",
+      "nombre": "Kramba Fashion",
+      "telefonos": [
+        {
+          "numero": "+573209096004",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Kramba Fashion (local 1268)"
+    },
+    {
+      "local_id": "912256b9d763551e",
+      "piso": 1,
+      "numero": "1270",
+      "nombre": "Provocame",
+      "telefonos": [
+        {
+          "numero": "+573222191067",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Provócame (local 1270)"
+    },
+    {
+      "local_id": "0b3399d58130b097",
+      "piso": 1,
+      "numero": "1279",
+      "nombre": "Dikaios",
+      "telefonos": [
+        {
+          "numero": "+573103379336",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — A&M Diseño y Moda (local 1279)"
+    },
+    {
+      "local_id": "307721187d054cb8",
+      "piso": 1,
+      "numero": "1507",
+      "nombre": "Amarella Shop",
+      "telefonos": [
+        {
+          "numero": "+573203083937",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Amarella (local 1507)"
+    },
+    {
+      "local_id": "53d27cb77dcbe9fb",
+      "piso": 2,
+      "numero": "2047",
+      "nombre": "Doer'S",
+      "telefonos": [
+        {
+          "numero": "+573013412603",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Oki (local 2047)"
+    },
+    {
+      "local_id": "bfd3af91e7745096",
+      "piso": 2,
+      "numero": "2054",
+      "nombre": "Lyrical",
+      "telefonos": [
+        {
+          "numero": "+573209618270",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Lyrical (local 2054)"
+    },
+    {
+      "local_id": "8d5d21ba08b10b35",
+      "piso": 2,
+      "numero": "2055",
+      "nombre": "Fragmento",
+      "telefonos": [
+        {
+          "numero": "+573203912627",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Fragmento (local 2055)"
+    },
+    {
+      "local_id": "9c9b2a7bb14ffa0f",
+      "piso": 2,
+      "numero": "2056",
+      "nombre": "Desocupado",
+      "telefonos": [
+        {
+          "numero": "+573213792795",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103648.jpg — Beula (local 2056)"
+    },
+    {
+      "local_id": "e2645de42dee4fd6",
+      "piso": 1,
+      "numero": "1243",
+      "nombre": "Color Blue Lm",
+      "telefonos": [
+        {
+          "numero": "+573118669737",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Color Blue (local 1243)"
+    },
+    {
+      "local_id": "bcc2dce5bea6aaee",
+      "piso": 1,
+      "numero": "1248",
+      "nombre": "Maxximus",
+      "telefonos": [
+        {
+          "numero": "+573144679891",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Maxximus (local 1248)"
+    },
+    {
+      "local_id": "da1f59a56fa28b11",
+      "piso": 1,
+      "numero": "1249",
+      "nombre": "Creaciones Ofir",
+      "telefonos": [
+        {
+          "numero": "+573114773029",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Creaciones Ofir (local 1249)"
+    },
+    {
+      "local_id": "acb6d391f396dac6",
+      "piso": 1,
+      "numero": "1264A",
+      "nombre": "Xara Jeans",
+      "telefonos": [
+        {
+          "numero": "+573147852358",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — XARA (local 1264A)"
+    },
+    {
+      "local_id": "908f45f580bd95b7",
+      "piso": 1,
+      "numero": "1264B",
+      "nombre": "Blusas Sama",
+      "telefonos": [
+        {
+          "numero": "+573134104556",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Blusas SAMA (local 1264B)"
+    },
+    {
+      "local_id": "cb18b437c9227da3",
+      "piso": 1,
+      "numero": "1264C",
+      "nombre": "Castaño Y Algodón",
+      "telefonos": [
+        {
+          "numero": "+573107586614",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Paris (local 1264C)"
+    },
+    {
+      "local_id": "40961a445d05cfdc",
+      "piso": 1,
+      "numero": "1265E",
+      "nombre": "Moda D'Plazz",
+      "telefonos": [
+        {
+          "numero": "+573138783272",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Moda D' plazz (local 1265E)"
+    },
+    {
+      "local_id": "cf2ec185bf5ba320",
+      "piso": 1,
+      "numero": "1265C",
+      "nombre": "Sefora Jah Fajas",
+      "telefonos": [
+        {
+          "numero": "+573134126887",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Sefora Jah Fajas (local 1265C)"
+    },
+    {
+      "local_id": "17788030575b7ec2",
+      "piso": 1,
+      "numero": "1266A",
+      "nombre": "Kari Dash",
+      "telefonos": [
+        {
+          "numero": "+573214569890",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Kari Dash (local 1266A)"
+    },
+    {
+      "local_id": "4020c83a9c62b147",
+      "piso": 1,
+      "numero": "1266B",
+      "nombre": "Vilkoketa",
+      "telefonos": [
+        {
+          "numero": "+573107974331",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103631.jpg — Vil koketa (local 1266B)"
+    },
+    {
+      "local_id": "6d869751f9e4c09c",
+      "piso": 1,
+      "numero": "1193",
+      "nombre": "Camisas innvasion jj",
+      "telefonos": [
+        {
+          "numero": "+573118612127",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Top Chic (local 1193)"
+    },
+    {
+      "local_id": "51d3aeba49e02348",
+      "piso": 1,
+      "numero": "1194",
+      "nombre": "Ternuritas Arcoiris",
+      "telefonos": [
+        {
+          "numero": "+573117446997",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Creaciones Manuela (local 1194)"
+    },
+    {
+      "local_id": "abd02cc3d1e41fa4",
+      "piso": 1,
+      "numero": "1196",
+      "nombre": "Tejidos Samalu",
+      "telefonos": [
+        {
+          "numero": "+573138542365",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Tejidos Samalu (local 1196)"
+    },
+    {
+      "local_id": "21af0946c756ecfd",
+      "piso": 1,
+      "numero": "1201",
+      "nombre": "Moda Celestial Ds",
+      "telefonos": [
+        {
+          "numero": "+573024950595",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Moda Celestial DS (local 1201)"
+    },
+    {
+      "local_id": "00a49d81701ac605",
+      "piso": 1,
+      "numero": "1203",
+      "nombre": "Ketos",
+      "telefonos": [
+        {
+          "numero": "+573232470508",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Ketos (local 1203)"
+    },
+    {
+      "local_id": "354cc6566de542a4",
+      "piso": 1,
+      "numero": "1210",
+      "nombre": "Tikva Taoko",
+      "telefonos": [
+        {
+          "numero": "+573114864306",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Tikva Taoko (local 1210)"
+    },
+    {
+      "local_id": "890991d001c5c88d",
+      "piso": 1,
+      "numero": "1211",
+      "nombre": "Vilkoketa",
+      "telefonos": [
+        {
+          "numero": "+573112706624",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Vilkoketa (local 1211)"
+    },
+    {
+      "local_id": "26491d80506f0a24",
+      "piso": 1,
+      "numero": "1213",
+      "nombre": "Kari Dash",
+      "telefonos": [
+        {
+          "numero": "+573224293910",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Karidash (local 1213)"
+    },
+    {
+      "local_id": "9e7ae430f4f81111",
+      "piso": 1,
+      "numero": "1218",
+      "nombre": "Ovat",
+      "telefonos": [
+        {
+          "numero": "+573209375217",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — OVAT Moda (local 1218)"
+    },
+    {
+      "local_id": "be439b4896b9a4ae",
+      "piso": 1,
+      "numero": "1221",
+      "nombre": "Picara",
+      "telefonos": [
+        {
+          "numero": "+573108591859",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Pícara (local 1221)"
+    },
+    {
+      "local_id": "5b328a63579074da",
+      "piso": 1,
+      "numero": "1222",
+      "nombre": "Picara",
+      "telefonos": [
+        {
+          "numero": "+573108591859",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Pícara (local 1222)"
+    },
+    {
+      "local_id": "245083907f1d96b4",
+      "piso": 1,
+      "numero": "1229",
+      "nombre": "Beem Moda",
+      "telefonos": [
+        {
+          "numero": "+573176056033",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Beem Moda (local 1229)"
+    },
+    {
+      "local_id": "be1a1d2b2da7a676",
+      "piso": 1,
+      "numero": "1236",
+      "nombre": "Tota'S Sport",
+      "telefonos": [
+        {
+          "numero": "+573016818654",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103627.jpg — Tejidos Totas (local 1236)"
+    },
+    {
+      "local_id": "d042f3035098b76d",
+      "piso": 3,
+      "numero": "307",
+      "nombre": "Benzino",
+      "telefonos": [
+        {
+          "numero": "+573214041927",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Fusión (local 307)"
+    },
+    {
+      "local_id": "906e23c812761d5f",
+      "piso": 3,
+      "numero": "310",
+      "nombre": "Ismo",
+      "telefonos": [
+        {
+          "numero": "+573003226171",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Ismo (local 310)"
+    },
+    {
+      "local_id": "761f26cd95d6df9e",
+      "piso": 3,
+      "numero": "314",
+      "nombre": "Style",
+      "telefonos": [
+        {
+          "numero": "+573024227515",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Bendita (local 314)"
+    },
+    {
+      "local_id": "0d23e559ffcc476d",
+      "piso": 1,
+      "numero": "1011",
+      "nombre": "Fenix",
+      "telefonos": [
+        {
+          "numero": "+573107903686",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Fénix (local 1011)"
+    },
+    {
+      "local_id": "a0697734f0368f77",
+      "piso": 1,
+      "numero": "1020",
+      "nombre": "Creaciones Santi",
+      "telefonos": [
+        {
+          "numero": "+573112442312",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Creaciones Santi (local 1020)"
+    },
+    {
+      "local_id": "c5e4ec56802e4bdb",
+      "piso": 1,
+      "numero": "1080",
+      "nombre": "Distribuidora Pequi",
+      "telefonos": [
+        {
+          "numero": "+573043316043",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Distr. Pequi (local 1080)"
+    },
+    {
+      "local_id": "6c161a16ee11a548",
+      "piso": 1,
+      "numero": "1084",
+      "nombre": "MAVY -  CAROL",
+      "telefonos": [
+        {
+          "numero": "+573192052417",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Mavy (local 1084)"
+    },
+    {
+      "local_id": "961ba241bcb9bdf0",
+      "piso": 1,
+      "numero": "1085",
+      "nombre": "Isabella Fashion",
+      "telefonos": [
+        {
+          "numero": "+573123866012",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103608.jpg — Isabella Fashion (local 1085)"
+    },
+    {
+      "local_id": "4144ca56bbd3eb4b",
+      "piso": 2,
+      "numero": "2325",
+      "nombre": "Cielos Nuevos",
+      "telefonos": [
+        {
+          "numero": "+573123906000",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Cielos Nuevos (local 2325)"
+    },
+    {
+      "local_id": "ab06aac1837afe79",
+      "piso": 2,
+      "numero": "2326",
+      "nombre": "Fe By Maxiru",
+      "telefonos": [
+        {
+          "numero": "+573214909033",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Fe by Maxuri (local 2326)"
+    },
+    {
+      "local_id": "65961a16418df7a1",
+      "piso": 2,
+      "numero": "2331",
+      "nombre": "Moda Anturi",
+      "telefonos": [
+        {
+          "numero": "+573209655366",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Moda Anturi (local 2331)"
+    },
+    {
+      "local_id": "3be73ce174dea332",
+      "piso": 2,
+      "numero": "2333",
+      "nombre": "Moda Anturi",
+      "telefonos": [
+        {
+          "numero": "+573209655366",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Moda Anturi (local 2333)"
+    },
+    {
+      "local_id": "55c43ef0d581d616",
+      "piso": 2,
+      "numero": "2335",
+      "nombre": "Fragmento",
+      "telefonos": [
+        {
+          "numero": "+573203912627",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Fragmento Oficial (local 2335)"
+    },
+    {
+      "local_id": "41ee15e5a91b1bc2",
+      "piso": 2,
+      "numero": "2336",
+      "nombre": "Fuego Blouse",
+      "telefonos": [
+        {
+          "numero": "+573227356586",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Fuego Blouse (local 2336)"
+    },
+    {
+      "local_id": "5c2c055daf38f1d6",
+      "piso": 2,
+      "numero": "2338",
+      "nombre": "Empoderadas Runway",
+      "telefonos": [
+        {
+          "numero": "+573166385413",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Empoderadas Runway (local 2338)"
+    },
+    {
+      "local_id": "760a504a9106915b",
+      "piso": 2,
+      "numero": "2346",
+      "nombre": "Sefora Jah& Myd",
+      "telefonos": [
+        {
+          "numero": "+573123318560",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Sefora Jah Fajas (local 2346)"
+    },
+    {
+      "local_id": "d480aba21edab687",
+      "piso": 2,
+      "numero": "2348",
+      "nombre": "Luxury F",
+      "telefonos": [
+        {
+          "numero": "+573118592674",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Bipe (local 2348)"
+    },
+    {
+      "local_id": "ba47005f1da324bb",
+      "piso": 2,
+      "numero": "2350",
+      "nombre": "Be Happy",
+      "telefonos": [
+        {
+          "numero": "+573214380107",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — Philine Plays (local 2350)"
+    },
+    {
+      "local_id": "f5fc45c0f5de7c5c",
+      "piso": 3,
+      "numero": "304",
+      "nombre": "West",
+      "telefonos": [
+        {
+          "numero": "+573222641397",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103604.jpg — West Kat Rose (local 304)"
+    },
+    {
+      "local_id": "6737cdc9d884ad28",
+      "piso": 2,
+      "numero": "2231",
+      "nombre": "Salomé",
+      "telefonos": [
+        {
+          "numero": "+573052838491",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Salomé Estilo y Moda (local 2231)"
+    },
+    {
+      "local_id": "db19cd6518e7a37e",
+      "piso": 2,
+      "numero": "2232",
+      "nombre": "Atogod",
+      "telefonos": [
+        {
+          "numero": "+573209655366",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Moda Anturi (local 2232)"
+    },
+    {
+      "local_id": "7b80ba5675d7d38d",
+      "piso": 2,
+      "numero": "2236",
+      "nombre": "Vous",
+      "telefonos": [
+        {
+          "numero": "+573224806272",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Surprise (local 2236)"
+    },
+    {
+      "local_id": "04b5e3996c0c5484",
+      "piso": 2,
+      "numero": "2237",
+      "nombre": "Juanca'S",
+      "telefonos": [
+        {
+          "numero": "+573132156898",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Juanca's moda femenina (local 2237)"
+    },
+    {
+      "local_id": "036cd875c0ab8048",
+      "piso": 2,
+      "numero": "2256",
+      "nombre": "Dejando Huella",
+      "telefonos": [
+        {
+          "numero": "+573204204100",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Dejando Huella (local 2256)"
+    },
+    {
+      "local_id": "80b7ccdc0deb7765",
+      "piso": 2,
+      "numero": "2270",
+      "nombre": "Belmoda",
+      "telefonos": [
+        {
+          "numero": "+573112650537",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Belmoda Plus (local 2270)"
+    },
+    {
+      "local_id": "40d970ba4b7fe01a",
+      "piso": 2,
+      "numero": "2280",
+      "nombre": "Dxe Emporio",
+      "telefonos": [
+        {
+          "numero": "+573022497966",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Emporio DXE (local 2280)"
+    },
+    {
+      "local_id": "9f33c22925427ff0",
+      "piso": 2,
+      "numero": "2295",
+      "nombre": "Nudotex",
+      "telefonos": [
+        {
+          "numero": "+573112586202",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — ISIS Collection (local 2295)"
+    },
+    {
+      "local_id": "ee779478a784e7c4",
+      "piso": 2,
+      "numero": "2296",
+      "nombre": "Nudotex",
+      "telefonos": [
+        {
+          "numero": "+573112586202",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — ISIS Collection (local 2296)"
+    },
+    {
+      "local_id": "2f6a0eeca39ba039",
+      "piso": 2,
+      "numero": "2311",
+      "nombre": "Saba Clothin",
+      "telefonos": [
+        {
+          "numero": "+573123462957",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Saba Clothing (local 2311)"
+    },
+    {
+      "local_id": "d2187f61f93c38b5",
+      "piso": 2,
+      "numero": "2308",
+      "nombre": "Jelky Calderón",
+      "telefonos": [
+        {
+          "numero": "+573214380107",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Bendito (local 2308)"
+    },
+    {
+      "local_id": "4c61f9e5941deecf",
+      "piso": 2,
+      "numero": "2320",
+      "nombre": "Cielos Nuevos",
+      "telefonos": [
+        {
+          "numero": "+573123906000",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Cielos Nuevos (local 2320)"
+    },
+    {
+      "local_id": "740a00087ce813bd",
+      "piso": 2,
+      "numero": "2321",
+      "nombre": "Mamasanta",
+      "telefonos": [
+        {
+          "numero": "+573203820624",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103533.jpg — Mamá Santa (local 2321)"
+    },
+    {
+      "local_id": "ebf06954ba4230ad",
+      "piso": 2,
+      "numero": "2161",
+      "nombre": "Oki",
+      "telefonos": [
+        {
+          "numero": "+573144683788",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Oki (local 2161)"
+    },
+    {
+      "local_id": "d3e0839c8d4874ed",
+      "piso": 2,
+      "numero": "2174",
+      "nombre": "Everest",
+      "telefonos": [
+        {
+          "numero": "+573188486889",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Everest Fashion (local 2174)"
+    },
+    {
+      "local_id": "d3bf2537a7f09208",
+      "piso": 2,
+      "numero": "2175",
+      "nombre": "Kitson",
+      "telefonos": [
+        {
+          "numero": "+573114859865",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Kítson (local 2175)"
+    },
+    {
+      "local_id": "a2d53f163636d44f",
+      "piso": 2,
+      "numero": "2183",
+      "nombre": "Kott Risk",
+      "telefonos": [
+        {
+          "numero": "+573058750341",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Kott Risk (local 2183)"
+    },
+    {
+      "local_id": "ebe5930f3d3e7948",
+      "piso": 2,
+      "numero": "2184",
+      "nombre": "Kott Risk",
+      "telefonos": [
+        {
+          "numero": "+573058750341",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Kott Risk (local 2184)"
+    },
+    {
+      "local_id": "9c555060d1c2c573",
+      "piso": 2,
+      "numero": "2187",
+      "nombre": "Sole Wonder",
+      "telefonos": [
+        {
+          "numero": "+573229660382",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Sole Wonder (local 2187)"
+    },
+    {
+      "local_id": "6f37cb50812dfee5",
+      "piso": 2,
+      "numero": "2191",
+      "nombre": "Quinn",
+      "telefonos": [
+        {
+          "numero": "+573213636247",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Quim (local 2191)"
+    },
+    {
+      "local_id": "e62732675749f3d9",
+      "piso": 2,
+      "numero": "2193",
+      "nombre": "Coco",
+      "telefonos": [
+        {
+          "numero": "+573202670141",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Coco (local 2193)"
+    },
+    {
+      "local_id": "0f53b9716dcfe67e",
+      "piso": 2,
+      "numero": "2198",
+      "nombre": "Windbreaker",
+      "telefonos": [
+        {
+          "numero": "+573243875103",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Damar Moda (local 2198)"
+    },
+    {
+      "local_id": "9b8b5d917c5eee78",
+      "piso": 2,
+      "numero": "2202",
+      "nombre": "Amur Amur",
+      "telefonos": [
+        {
+          "numero": "+573103647243",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Sultanna Moda (local 2202)"
+    },
+    {
+      "local_id": "f4e49fd6137b658c",
+      "piso": 2,
+      "numero": "2204",
+      "nombre": "Cannada",
+      "telefonos": [
+        {
+          "numero": "+573008526850",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — El Mágico (local 2204)"
+    },
+    {
+      "local_id": "415612cec95f1262",
+      "piso": 2,
+      "numero": "2212",
+      "nombre": "Ff Estilo",
+      "telefonos": [
+        {
+          "numero": "+573122517419",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — FYF Diseños (local 2212)"
+    },
+    {
+      "local_id": "a78f222c4c10b783",
+      "piso": 2,
+      "numero": "2213",
+      "nombre": "Amoretti",
+      "telefonos": [
+        {
+          "numero": "+573229553578",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103525.jpg — Amoretti S.A.S (local 2213)"
+    },
+    {
+      "local_id": "dfeb4e05dfff4139",
+      "piso": 2,
+      "numero": "2105",
+      "nombre": "Importados",
+      "telefonos": [
+        {
+          "numero": "+573242897044",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Élysée Luxury (local 2105)"
+    },
+    {
+      "local_id": "6479f03e02f72a52",
+      "piso": 2,
+      "numero": "2106",
+      "nombre": "Andariega Lorenn's",
+      "telefonos": [
+        {
+          "numero": "+573143645506",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Andariega Lorenns (local 2107)"
+    },
+    {
+      "local_id": "8bd83e0e7f8a9028",
+      "piso": 2,
+      "numero": "2109",
+      "nombre": "DIDA",
+      "telefonos": [
+        {
+          "numero": "+573243576028",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — DIDA (local 2109)"
+    },
+    {
+      "local_id": "722e0e96230d3137",
+      "piso": 2,
+      "numero": "2111",
+      "nombre": "",
+      "telefonos": [
+        {
+          "numero": "+573212514894",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Fashion Nort (local 2111)"
+    },
+    {
+      "local_id": "e8c115297ade2373",
+      "piso": 2,
+      "numero": "2114",
+      "nombre": "Sara Store",
+      "telefonos": [
+        {
+          "numero": "+573112330476",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Sara Store (local 2114)"
+    },
+    {
+      "local_id": "a21a354169210eaa",
+      "piso": 2,
+      "numero": "2124",
+      "nombre": "Loof",
+      "telefonos": [
+        {
+          "numero": "+573193987884",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — LOOF (local 2124)"
+    },
+    {
+      "local_id": "6701ac9194f49414",
+      "piso": 2,
+      "numero": "2132",
+      "nombre": "Wanawa",
+      "telefonos": [
+        {
+          "numero": "+573026667067",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Wanawaa (local 2132)"
+    },
+    {
+      "local_id": "704d747a3e10f384",
+      "piso": 2,
+      "numero": "2146",
+      "nombre": "Hefziba Moda",
+      "telefonos": [
+        {
+          "numero": "+573046305728",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Hefziba Moda (local 2146)"
+    },
+    {
+      "local_id": "20573589d96aa726",
+      "piso": 2,
+      "numero": "2148",
+      "nombre": "Victoria Ideal",
+      "telefonos": [
+        {
+          "numero": "+573154258202",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Victoria Ideal (local 2148)"
+    },
+    {
+      "local_id": "32fd0eca6545ceac",
+      "piso": 2,
+      "numero": "2150",
+      "nombre": "Glam Boutique",
+      "telefonos": [
+        {
+          "numero": "+573202183632",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — Glam Boutique (local 2150)"
+    },
+    {
+      "local_id": "5e9a2266ea8547e7",
+      "piso": 2,
+      "numero": "2152",
+      "nombre": "Camisetas Tu En Ti",
+      "telefonos": [
+        {
+          "numero": "+573147319831",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — TUENTI (local 2152)"
+    },
+    {
+      "local_id": "2e6e4cdb1933a5f9",
+      "piso": 2,
+      "numero": "2153",
+      "nombre": "Camisetas Tu En Ti",
+      "telefonos": [
+        {
+          "numero": "+573147319831",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — TUENTI (local 2153)"
+    },
+    {
+      "local_id": "3cd50dd41a047e19",
+      "piso": 2,
+      "numero": "2157",
+      "nombre": "You Pasarela",
+      "telefonos": [
+        {
+          "numero": "+573008714182",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103459.jpg — You Pasarela (local 2157)"
+    },
+    {
+      "local_id": "9830a2bc5b84af77",
+      "piso": 1,
+      "numero": "1152",
+      "nombre": "Rea",
+      "telefonos": [
+        {
+          "numero": "+573058992477",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — REA (local 1152)"
+    },
+    {
+      "local_id": "c04601bc5347dc1b",
+      "piso": 1,
+      "numero": "1153",
+      "nombre": "Vael",
+      "telefonos": [
+        {
+          "numero": "+573203487252",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Vael (local 1153)"
+    },
+    {
+      "local_id": "651c8df53a98f40e",
+      "piso": 1,
+      "numero": "1154",
+      "nombre": "V2 V-two company",
+      "telefonos": [
+        {
+          "numero": "+573122843930",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Vtwo Women (local 1154)"
+    },
+    {
+      "local_id": "982efe207cbcde75",
+      "piso": 1,
+      "numero": "1166",
+      "nombre": "Variedades Rojo Mar",
+      "telefonos": [
+        {
+          "numero": "+573202670848",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Soria (local 1166)"
+    },
+    {
+      "local_id": "9eb1e0b16dfd63cf",
+      "piso": 1,
+      "numero": "1171",
+      "nombre": "Nimet",
+      "telefonos": [
+        {
+          "numero": "+573212897991",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Nimet Collection (local 1171)"
+    },
+    {
+      "local_id": "b1c4967a44315a4c",
+      "piso": 1,
+      "numero": "1182",
+      "nombre": "Zuriela",
+      "telefonos": [
+        {
+          "numero": "+573102336347",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Zuriela (local 1182)"
+    },
+    {
+      "local_id": "2102bfe44bed7e34",
+      "piso": 1,
+      "numero": "1184",
+      "nombre": "Elian's Collection",
+      "telefonos": [
+        {
+          "numero": "+573166905779",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Elianz (local 1184)"
+    },
+    {
+      "local_id": "b61a8179e0b09bb2",
+      "piso": 1,
+      "numero": "1188",
+      "nombre": "Beem Moda",
+      "telefonos": [
+        {
+          "numero": "+573208455157",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Diim Moda (local 1188)"
+    },
+    {
+      "local_id": "176c47a583f07beb",
+      "piso": 1,
+      "numero": "1190",
+      "nombre": "Basic classic",
+      "telefonos": [
+        {
+          "numero": "+573194825797",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Básicas (local 1190)"
+    },
+    {
+      "local_id": "fff4070ecb56ea5f",
+      "piso": 1,
+      "numero": "1191",
+      "nombre": "Mayu",
+      "telefonos": [
+        {
+          "numero": "+573128097053",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Mayu (local 1191)"
+    },
+    {
+      "local_id": "b652411bfb78cfb7",
+      "piso": 1,
+      "numero": "1192",
+      "nombre": "Marmara",
+      "telefonos": [
+        {
+          "numero": "+573152589614",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103453.jpg — Marmara (local 1192)"
+    },
+    {
+      "local_id": "2c9e0180f289b8d1",
+      "piso": 1,
+      "numero": "1129",
+      "nombre": "Luzero dulceza",
+      "telefonos": [
+        {
+          "numero": "+573182194879",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Juancalé (local 1129)"
+    },
+    {
+      "local_id": "ed23c5297c19e4e7",
+      "piso": 1,
+      "numero": "1131",
+      "nombre": "Juanca's",
+      "telefonos": [
+        {
+          "numero": "+573132144224",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Juancas (local 1131)"
+    },
+    {
+      "local_id": "cb19601f57eaf2f5",
+      "piso": 1,
+      "numero": "1133",
+      "nombre": "Valerisa",
+      "telefonos": [
+        {
+          "numero": "+573193778701",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Valerisa (local 1133)"
+    },
+    {
+      "local_id": "55b04ed72a521191",
+      "piso": 1,
+      "numero": "1134",
+      "nombre": "Bella Dama",
+      "telefonos": [
+        {
+          "numero": "+573212431503",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Bella Dama (local 1134)"
+    },
+    {
+      "local_id": "38e4af9b894538e1",
+      "piso": 1,
+      "numero": "1136",
+      "nombre": "TenFit",
+      "telefonos": [
+        {
+          "numero": "+573108404191",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Tenfit (local 1136)"
+    },
+    {
+      "local_id": "ab7ce661e247a817",
+      "piso": 1,
+      "numero": "1137",
+      "nombre": "Azierto",
+      "telefonos": [
+        {
+          "numero": "+573182045225",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Azierto (local 1137)"
+    },
+    {
+      "local_id": "57442924912fcf27",
+      "piso": 1,
+      "numero": "1139",
+      "nombre": "like",
+      "telefonos": [
+        {
+          "numero": "+573107654308",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Like (local 1139)"
+    },
+    {
+      "local_id": "e69820e29a932671",
+      "piso": 1,
+      "numero": "1140",
+      "nombre": "shilow",
+      "telefonos": [
+        {
+          "numero": "+573108068130",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Shilow (local 1140)"
+    },
+    {
+      "local_id": "c69657e31a856fc4",
+      "piso": 1,
+      "numero": "1141",
+      "nombre": "The End",
+      "telefonos": [
+        {
+          "numero": "+573138719141",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — The end (local 1141)"
+    },
+    {
+      "local_id": "429008ba87e8debd",
+      "piso": 1,
+      "numero": "1144",
+      "nombre": "Arcy Modas",
+      "telefonos": [
+        {
+          "numero": "+573227908974",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Arcy Modas (local 1144)"
+    },
+    {
+      "local_id": "ca10c0c6a92ae44c",
+      "piso": 1,
+      "numero": "1145",
+      "nombre": "A imagen intima",
+      "telefonos": [
+        {
+          "numero": "+573508274573",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Imagen Íntima (local 1145)"
+    },
+    {
+      "local_id": "fbbfca6d73928d95",
+      "piso": 1,
+      "numero": "1146",
+      "nombre": "A imagen intima",
+      "telefonos": [
+        {
+          "numero": "+573508274573",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Imagen Íntima (local 1146)"
+    },
+    {
+      "local_id": "9b863382c447257b",
+      "piso": 1,
+      "numero": "1151",
+      "nombre": "Pentagon",
+      "telefonos": [
+        {
+          "numero": "+573003106064",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103423.jpg — Pentagon (local 1151)"
+    },
+    {
+      "local_id": "f5c9fdff7501db12",
+      "piso": 1,
+      "numero": "1088",
+      "nombre": "Atuendos",
+      "telefonos": [
+        {
+          "numero": "+573161829578",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — ATD (local 1088)"
+    },
+    {
+      "local_id": "d0c878eb409f3cee",
+      "piso": 1,
+      "numero": "1091",
+      "nombre": "Licsy",
+      "telefonos": [
+        {
+          "numero": "+573112043060",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Amara (local 1091)"
+    },
+    {
+      "local_id": "b4ac4e631480b241",
+      "piso": 1,
+      "numero": "1096",
+      "nombre": "Arcy Modas",
+      "telefonos": [
+        {
+          "numero": "+573227908974",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Arcy Modas (local 1096)"
+    },
+    {
+      "local_id": "161b2d7c48bcf6e1",
+      "piso": 1,
+      "numero": "1100",
+      "nombre": "DIDA",
+      "telefonos": [
+        {
+          "numero": "+573504956249",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Dida (local 1100)"
+    },
+    {
+      "local_id": "b3740f9c5b9d0c3b",
+      "piso": 1,
+      "numero": "1103",
+      "nombre": "wow",
+      "telefonos": [
+        {
+          "numero": "+573227908974",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Wow (local 1103)"
+    },
+    {
+      "local_id": "8129f721b59f5387",
+      "piso": 1,
+      "numero": "1104",
+      "nombre": "Profetica Natalia Barbosa",
+      "telefonos": [
+        {
+          "numero": "+573337269024",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Cielojob (local 1104)"
+    },
+    {
+      "local_id": "aa319e3b82082ca2",
+      "piso": 1,
+      "numero": "1119",
+      "nombre": "Diamond Store",
+      "telefonos": [
+        {
+          "numero": "+573116255311",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Diamond (local 1119)"
+    },
+    {
+      "local_id": "c10349bf695445e4",
+      "piso": 1,
+      "numero": "1120",
+      "nombre": "Diamond Store",
+      "telefonos": [
+        {
+          "numero": "+573237167203",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Diamond (local 1120)"
+    },
+    {
+      "local_id": "9408ae52c366aca7",
+      "piso": 1,
+      "numero": "1125A",
+      "nombre": "Bialy",
+      "telefonos": [
+        {
+          "numero": "+573187444257",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Bialy (local 1125A)"
+    },
+    {
+      "local_id": "77e08d33e4508ec2",
+      "piso": 1,
+      "numero": "1125B",
+      "nombre": "Tiamo",
+      "telefonos": [
+        {
+          "numero": "+573022389066",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — TIAMO (local 1125B)"
+    },
+    {
+      "local_id": "0de97d955632def2",
+      "piso": 1,
+      "numero": "1126",
+      "nombre": "Slay",
+      "telefonos": [
+        {
+          "numero": "+573224272038",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Slay (local 1126)"
+    },
+    {
+      "local_id": "f0e4dec751c01519",
+      "piso": 1,
+      "numero": "1127",
+      "nombre": "Moda puntual",
+      "telefonos": [
+        {
+          "numero": "+573104595897",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103418.jpg — Moda Puntual (local 1127)"
+    },
+    {
+      "local_id": "499929a159911203",
+      "piso": 1,
+      "numero": "1054",
+      "nombre": "Diafragma",
+      "telefonos": [
+        {
+          "numero": "+573213784584",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Diafragma (local 1054)"
+    },
+    {
+      "local_id": "aa563d552c8b9d56",
+      "piso": 1,
+      "numero": "1055",
+      "nombre": "Maria Dulfay",
+      "telefonos": [
+        {
+          "numero": "+573133198278",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — María Dulfay (local 1055)"
+    },
+    {
+      "local_id": "60744a44810d5088",
+      "piso": 1,
+      "numero": "1057",
+      "nombre": "Morenitas Beach",
+      "telefonos": [
+        {
+          "numero": "+573219784144",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Morenitas Beach (local 1057)"
+    },
+    {
+      "local_id": "af6c164c0aa68a11",
+      "piso": 1,
+      "numero": "1058",
+      "nombre": "Latin Angie",
+      "telefonos": [
+        {
+          "numero": "+573002179641",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Latín Angie (local 1058)"
+    },
+    {
+      "local_id": "981d64bbaa6e5b61",
+      "piso": 1,
+      "numero": "1059",
+      "nombre": "Doblezero",
+      "telefonos": [
+        {
+          "numero": "+573132514755",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Libélula (local 1059)"
+    },
+    {
+      "local_id": "0510c66f2451e58b",
+      "piso": 1,
+      "numero": "1062",
+      "nombre": "Fajas Yara",
+      "telefonos": [
+        {
+          "numero": "+573006100630",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Fajas Yara (local 1062)"
+    },
+    {
+      "local_id": "53f7e986448ba94b",
+      "piso": 1,
+      "numero": "1063",
+      "nombre": "Juana Collection",
+      "telefonos": [
+        {
+          "numero": "+573116255311",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Juana Bendita (local 1063)"
+    },
+    {
+      "local_id": "44f53e5ba5d4b75e",
+      "piso": 1,
+      "numero": "1065",
+      "nombre": "Creaciones Yeamerbo",
+      "telefonos": [
+        {
+          "numero": "+573237167203",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Yeamerbo (local 1065)"
+    },
+    {
+      "local_id": "2ad92af604ddea13",
+      "piso": 1,
+      "numero": "1072",
+      "nombre": "Bless Me",
+      "telefonos": [
+        {
+          "numero": "+573023305721",
+          "whatsapp": true
+        },
+        {
+          "numero": "+573114650075",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Brunata (local 1072); IMG_20261003_103339.jpg — Bless Me (local 1072)"
+    },
+    {
+      "local_id": "a27bf230b8aa231e",
+      "piso": 1,
+      "numero": "1075",
+      "nombre": "Sharon Ruiz",
+      "telefonos": [
+        {
+          "numero": "+573009565374",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Sharon Ruiz (local 1075)"
+    },
+    {
+      "local_id": "68b0248ae18587c1",
+      "piso": 1,
+      "numero": "1087",
+      "nombre": "Luxxotica",
+      "telefonos": [
+        {
+          "numero": "+573188449168",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103339.jpg — Luxxotica (local 1087)"
+    },
+    {
+      "local_id": "a74ca1ba4c7182ab",
+      "piso": 1,
+      "numero": "1001",
+      "nombre": "Azierto",
+      "telefonos": [
+        {
+          "numero": "+573182048403",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Azierto (local 1001)"
+    },
+    {
+      "local_id": "73148cd0afd00963",
+      "piso": 1,
+      "numero": "1009",
+      "nombre": "Simba Clothes",
+      "telefonos": [
+        {
+          "numero": "+573175421722",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — SIMBA CLOTHES (local 1009)"
+    },
+    {
+      "local_id": "e7a8c498cf0bde2e",
+      "piso": 1,
+      "numero": "1021",
+      "nombre": "Carson Jeans",
+      "telefonos": [
+        {
+          "numero": "+573226007108",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Carson Jeans (local 1021)"
+    },
+    {
+      "local_id": "be54e4a4f8a36330",
+      "piso": 1,
+      "numero": "1036",
+      "nombre": "IM Divers",
+      "telefonos": [
+        {
+          "numero": "+573144269960",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Moksha (local 1036)"
+    },
+    {
+      "local_id": "7d37c68e5ed463c0",
+      "piso": 1,
+      "numero": "1037",
+      "nombre": "Capital Rock",
+      "telefonos": [
+        {
+          "numero": "+573227207042",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Capital Rock (local 1037)"
+    },
+    {
+      "local_id": "a6269d054cc61d70",
+      "piso": 1,
+      "numero": "1038",
+      "nombre": "American Wolf Authentic",
+      "telefonos": [
+        {
+          "numero": "+573208331461",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — American Wolf (local 1038)"
+    },
+    {
+      "local_id": "d53aa12681311ced",
+      "piso": 1,
+      "numero": "1045",
+      "nombre": "Angela Animero",
+      "telefonos": [
+        {
+          "numero": "+573118708285",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Angela Animero (local 1045B)"
+    },
+    {
+      "local_id": "7536005322859645",
+      "piso": 1,
+      "numero": "1046B",
+      "nombre": "Tienda Zara",
+      "telefonos": [
+        {
+          "numero": "+573143502872",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Tienda Zara (local 1046B)"
+    },
+    {
+      "local_id": "a5abf8b93957c7e8",
+      "piso": 1,
+      "numero": "1051",
+      "nombre": "Fiorita Moda Puntual",
+      "telefonos": [
+        {
+          "numero": "+573046211516",
+          "whatsapp": true
+        }
+      ],
+      "fuente": "IMG_20261003_103332.jpg — Moda Puntual Florita (local 1051)"
+    }
+  ]
+}
