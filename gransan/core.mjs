@@ -28,8 +28,10 @@ export function validateContacts(input, rows) {
       return {numero: p.numero, whatsapp: p.whatsapp};
     });
     if (typeof c.fuente !== 'string' || !c.fuente.trim()) fail('falta la página o foto de origen.');
+    if (c.redes !== undefined && (!Array.isArray(c.redes) || c.redes.some(value => typeof value !== 'string' || !value.trim()))) fail('redes debe contener usuarios o enlaces de texto.');
     return {local_id: c.local_id, piso: c.piso, numero: c.numero, nombre: c.nombre,
       telefonos: phones.filter((p, i, a) => a.findIndex(x => x.numero === p.numero && x.whatsapp === p.whatsapp) === i),
+      ...(c.redes ? {redes: [...new Set(c.redes.map(value => value.trim()))]} : {}),
       fuente: c.fuente.trim()};
   });
   return {version: 1, contactos: contacts};

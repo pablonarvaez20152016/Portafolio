@@ -152,6 +152,10 @@ function renderDetail() {
     for (const phone of contact.telefonos || []) {
       $('detail').append(whatsappLink(phone));
     }
+    for (const network of contact.redes || []) {
+      const item = text('span', network, 'social-link');
+      $('detail').append(item);
+    }
   }
   if (r.piso !== floor) {
     const button = text('button', `Volver al local en piso ${r.piso}`);

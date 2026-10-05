@@ -25,3 +25,4 @@
 .search-row{flex-wrap:nowrap}#query{flex:1;min-width:0}#save-search-local{flex:0 0 44px;width:44px;padding:0;font-size:26px;line-height:1}#save-search-local:disabled{cursor:default}
 
 .whatsapp-number{display:inline-flex;align-items:center;gap:5px;color:#146b36;background:white;border:1px solid #b7cdb0;border-radius:8px;padding:6px 8px;margin:3px 4px;text-decoration:none;font-size:13px;min-height:36px}.whatsapp-number svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}#status{display:flex;align-items:center;flex-wrap:wrap;gap:3px}#install{width:100%}#install-status:empty{display:none}
+.social-link{display:inline-flex;align-items:center;padding:7px 9px;background:white;border:1px solid #b7cdb0;border-radius:8px;color:#194d32;font-size:13px;overflow-wrap:anywhere;max-width:100%}
