@@ -7,3 +7,21 @@
 .map-local{width:1.2%;height:auto;aspect-ratio:1;min-width:5px}.map-local[aria-pressed=true]{z-index:2}
 
 .map-top{padding:4px 6px;gap:4px;flex-wrap:nowrap}.floors{gap:0;padding:2px}.floors button{padding:6px 9px;white-space:nowrap}.zoom-controls{display:flex;gap:3px}.zoom-controls button{padding:6px 9px}#viewport{height:clamp(220px,calc(100dvh - 230px),900px)}.legend{padding:4px 8px;font-size:11px}.detail{padding:8px 10px;margin-top:6px;display:flex;flex-wrap:wrap;align-items:center;gap:4px 6px}.detail-heading{flex:1 1 100%;display:flex;align-items:baseline;justify-content:space-between;gap:6px}.detail-heading h2{font-size:16px;margin:0}.detail-heading span{font-size:12px;white-space:nowrap}.detail p{margin:2px 0;font-size:12px}.detail button{font-size:12px;padding:5px 8px;min-height:36px}.detail .phone-link{margin:0;padding:7px 8px;font-size:12px;min-height:36px}.detail-extra{font-size:12px;flex:1 1 100%}.detail-extra summary{cursor:pointer}.detail .notice{padding:4px 6px;flex:1 1 100%}@media(max-width:360px){.floors button,.zoom-controls button{padding:6px}.detail-heading{flex-wrap:wrap}}
+
+.search-row{flex-wrap:wrap}#query{flex-basis:180px}#status:empty{display:none}
+
+#search-form{position:sticky;top:0;z-index:20;background:#f4f6f1;padding:8px 0;box-shadow:0 5px 8px #19372f12}
+.map-card{scroll-margin-top:130px}
+#viewport{overscroll-behavior:auto}
+#saved-list{grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:6px}
+.saved-item{position:relative;display:block;min-width:0}
+.saved-locate{width:100%;height:100%;padding:9px 30px 9px 9px}
+.saved-locate strong{font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.saved-locate small{font-size:11px}
+.saved-remove{position:absolute;right:1px;top:1px;width:28px;min-height:28px;padding:0;border:0;background:transparent;font-size:21px;font-weight:400;line-height:1}
+#marker-save{position:absolute;left:22px;top:0;width:36px;min-height:36px;padding:0;border-radius:50%;background:#153b32;color:white;border:2px solid white;font-size:25px;pointer-events:auto;box-shadow:0 2px 6px #0004}
+#marker-save:disabled{opacity:1;background:#225c40;cursor:default;font-size:18px}
+
+.search-row{flex-wrap:nowrap}#query{flex:1;min-width:0}#save-search-local{flex:0 0 44px;width:44px;padding:0;font-size:26px;line-height:1}#save-search-local:disabled{cursor:default}
+
+.whatsapp-number{display:inline-flex;align-items:center;gap:5px;color:#146b36;background:white;border:1px solid #b7cdb0;border-radius:8px;padding:6px 8px;margin:3px 4px;text-decoration:none;font-size:13px;min-height:36px}.whatsapp-number svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}#status{display:flex;align-items:center;flex-wrap:wrap;gap:3px}#install{width:100%}#install-status:empty{display:none}
